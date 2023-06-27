@@ -1,7 +1,7 @@
 
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://github.com/alissonsantana154">Álisson Santana 😃️</a>
+    <a>Álisson Santana 😃️</a>
   </h1>
 
 <div align="center">
@@ -9,7 +9,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alissonsantana154&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonsantana154&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
  <div align="center" valign="top"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
